@@ -1,0 +1,16 @@
+Merge Sort size 2^11	0.294484
+
+Quick Sort size 2^11	0.4388
+
+Merge Sort size 2^13	0.271847
+
+Quick Sort size 2^13	0.39581
+
+Merge Sort size 2^15	0.400914
+
+Quick Sort size 2^15	0.446555
+
+Merge Sort size 2^17	0.315389
+
+Quick Sort size 2^17	0.636878
+
